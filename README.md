@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-This project demonstrates a **complete Indonesian NLP pipeline** for sentiment and emotion classification using the [PRDECT-ID dataset](https://data.mendeley.com/datasets/574v66hf2v/1) - a publicly available collection of Tokopedia product reviews annotated with sentiment and emotion labels.
+My Biggest project so far, this project demonstrates a **complete Indonesian NLP pipeline** for sentiment and emotion classification using the [PRDECT-ID dataset](https://data.mendeley.com/datasets/574v66hf2v/1) - a publicly available collection of Tokopedia product reviews annotated with sentiment and emotion labels.
 
 > **Research Context:** This portfolio is developed as a foundation for the thesis *"HIDDEN FOR NOW"*  - demonstrating full command of the Text Mining pipeline before applying it to the financial domain.
 
