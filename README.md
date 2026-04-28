@@ -2,7 +2,6 @@
 ### Text Mining Portfolio | Informatika Universitas Udayana 
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://python.org)
-[![Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/YOUR_USERNAME/portfolio-indo-nlp/blob/main/notebooks/sentiment_analysis_prdect_id.ipynb)
 [![Dataset](https://img.shields.io/badge/Dataset-Mendeley%20Data-red)](https://data.mendeley.com/datasets/574v66hf2v/1)
 [![IndoBERT](https://img.shields.io/badge/Model-IndoBERT-orange)](https://huggingface.co/indobenchmark/indobert-base-p1)
 
@@ -88,7 +87,7 @@ portfolio-indo-nlp/
 ## 🚀 Quick Start
 
 ### Option 1: Google Colab (Recommended)
-Click the badge at the top - Run All cells - Done.
+Download Notebook and Data - put at the same folder - Run All cells - Done.
 
 ### Option 2: Local Environment
 ```bash
@@ -142,22 +141,6 @@ python src/evaluate.py
 | Feature Extraction | TF-IDF (Unigram & Bigram) |
 | Visualization | Matplotlib, Seaborn, WordCloud, Plotly |
 | Environment | Google Colab, Python venv |
-
----
-
-## 🔗 Relation to Thesis Research
-
-This portfolio directly demonstrates the pipeline required for the thesis:
-
-```
-Portfolio (this repo)          →    Thesis Application
-─────────────────────────────────────────────────────
-Tokopedia reviews              →    Indonesian financial news
-Positive / Negative labels     →    Bullish / Bearish / Neutral
-Product sentiment              →    Market sentiment
-IndoBERT fine-tuning           →    FinBERT-Indo (novel contribution)
-F1, Accuracy metrics           →    + Correlation with IHSG movement
-```
 
 ---
 
