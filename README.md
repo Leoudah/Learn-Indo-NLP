@@ -1,4 +1,4 @@
-# 🇮🇩 Indonesian NLP - Sentiment & Emotion Analysis
+# Indonesian NLP - Sentiment & Emotion Analysis
 ### Text Mining Portfolio | Informatika Universitas Udayana 
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://python.org)
