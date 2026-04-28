@@ -88,7 +88,7 @@ portfolio-indo-nlp/
 ## 🚀 Quick Start
 
 ### Option 1: Google Colab (Recommended)
-Click the badge at the top → Run All cells → Done.
+Click the badge at the top - Run All cells - Done.
 
 ### Option 2: Local Environment
 ```bash
