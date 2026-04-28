@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 My Biggest project so far, this project demonstrates a **complete Indonesian NLP pipeline** for sentiment and emotion classification using the [PRDECT-ID dataset](https://data.mendeley.com/datasets/574v66hf2v/1) - a publicly available collection of Tokopedia product reviews annotated with sentiment and emotion labels.
 
@@ -15,7 +15,7 @@ My Biggest project so far, this project demonstrates a **complete Indonesian NLP
 
 ---
 
-## 🎯 Key Contributions
+## Key Contributions
 
 | # | Contribution |
 |---|---|
@@ -27,7 +27,7 @@ My Biggest project so far, this project demonstrates a **complete Indonesian NLP
 
 ---
 
-## 📊 Results
+## Results
 
 ### Sentiment Classification (Binary: Positive / Negative) - WILL BE UPDATED SOON
 
@@ -40,7 +40,7 @@ My Biggest project so far, this project demonstrates a **complete Indonesian NLP
 | Logistic Regression | - | - | - | - |
 | **IndoBERT (fine-tuned)** | - | - | - | **-** |
 
-> 📌 Run the notebook to populate results. Values depend on the actual PRDECT-ID dataset split.
+>  Run the notebook to populate results. Values depend on the actual PRDECT-ID dataset split.
 
 ### Emotion Classification (5-class)
 
@@ -52,29 +52,29 @@ My Biggest project so far, this project demonstrates a **complete Indonesian NLP
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 portfolio-indo-nlp/
 │
-├── 📓 notebooks/
+├── notebooks/
 │   └── sentiment_analysis_prdect_id.ipynb   # Main Colab notebook (end-to-end)
 │
-├── 🐍 src/
+├── src/
 │   ├── preprocessing.py                      # Indonesian NLP preprocessing module
 │   ├── features.py                           # TF-IDF feature extraction
 │   ├── models.py                             # ML model definitions & training
 │   ├── evaluate.py                           # Evaluation & metrics utilities
 │   └── predict.py                            # Inference / demo script
 │
-├── 📁 data/
+├── data/
 │   └── README_data.md                        # Dataset download instructions
 │
-├── 📈 results/
+├── results/
 │   ├── figures/                              # Generated plots (EDA, confusion matrix, etc.)
 │   └── metrics.json                          # Saved model metrics
 │
-├── 📄 docs/
+├── docs/
 │   └── pipeline_diagram.md                  # NLP pipeline documentation
 │
 ├── requirements.txt                          # Python dependencies
@@ -84,7 +84,7 @@ portfolio-indo-nlp/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Google Colab (Recommended)
 Download Notebook and Data - put at the same folder - Run All cells - Done.
@@ -112,7 +112,7 @@ python src/evaluate.py
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 **PRDECT-ID** - Product Reviews Dataset for Emotions Classification Tasks (Indonesian)
 
@@ -129,7 +129,7 @@ python src/evaluate.py
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -144,7 +144,7 @@ python src/evaluate.py
 
 ---
 
-## 📚 References
+## References
 
 1. Sutoyo, R., et al. (2022). *PRDECT-ID Dataset*. Mendeley Data. DOI: 10.17632/574v66hf2v.1
 2. Wilie, B., et al. (2020). *IndoNLU: Benchmark and Resources for Evaluating Indonesian NLU*. arXiv:2009.05387
@@ -153,7 +153,7 @@ python src/evaluate.py
 
 ---
 
-## 👤 Author
+## Author
 
 **[LEONARDO PRAMUDYO HUTOMO]**  
 Mahasiswa Informatika - Universitas Udayana  
