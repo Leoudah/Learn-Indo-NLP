@@ -1,0 +1,44 @@
+{
+  "_note": "This file will be populated after running the notebook or src/models.py",
+  "_dataset": "PRDECT-ID (Mendeley Data, DOI: 10.17632/574v66hf2v.1)",
+  "sentiment": {
+    "Naive Bayes": {
+      "accuracy": null,
+      "precision": null,
+      "recall": null,
+      "f1_weighted": null
+    },
+    "Linear SVM": {
+      "accuracy": null,
+      "precision": null,
+      "recall": null,
+      "f1_weighted": null
+    },
+    "Logistic Regression": {
+      "accuracy": null,
+      "precision": null,
+      "recall": null,
+      "f1_weighted": null
+    },
+    "IndoBERT": {
+      "accuracy": null,
+      "precision": null,
+      "recall": null,
+      "f1_weighted": null
+    }
+  },
+  "emotion": {
+    "Naive Bayes": {
+      "accuracy": null,
+      "f1_weighted": null
+    },
+    "Linear SVM": {
+      "accuracy": null,
+      "f1_weighted": null
+    },
+    "Logistic Regression": {
+      "accuracy": null,
+      "f1_weighted": null
+    }
+  }
+}
