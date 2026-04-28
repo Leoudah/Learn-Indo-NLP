@@ -30,7 +30,7 @@ My Biggest project so far, this project demonstrates a **complete Indonesian NLP
 
 ## 📊 Results
 
-### Sentiment Classification (Binary: Positive / Negative)
+### Sentiment Classification (Binary: Positive / Negative) - WILL BE UPDATED SOON
 
 | Model | Accuracy | Precision | Recall | F1 (weighted) |
 |---|---|---|---|---|
